@@ -1,0 +1,10 @@
+C:\Users\jakub\Documents\pwr\badura\WirtualnyPoetaApp1\WirtualnyPoetaApp1\obj\Debug\WirtualnyPoetaApp1.csprojAssemblyReference.cache
+C:\Users\jakub\Documents\pwr\badura\WirtualnyPoetaApp1\WirtualnyPoetaApp1\obj\Debug\WirtualnyPoetaApp1.Form1.resources
+C:\Users\jakub\Documents\pwr\badura\WirtualnyPoetaApp1\WirtualnyPoetaApp1\obj\Debug\WirtualnyPoetaApp1.Properties.Resources.resources
+C:\Users\jakub\Documents\pwr\badura\WirtualnyPoetaApp1\WirtualnyPoetaApp1\obj\Debug\WirtualnyPoetaApp1.csproj.GenerateResource.cache
+C:\Users\jakub\Documents\pwr\badura\WirtualnyPoetaApp1\WirtualnyPoetaApp1\obj\Debug\WirtualnyPoetaApp1.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Documents\pwr\badura\WirtualnyPoetaApp1\WirtualnyPoetaApp1\bin\Debug\WirtualnyPoetaApp1.exe.config
+C:\Users\jakub\Documents\pwr\badura\WirtualnyPoetaApp1\WirtualnyPoetaApp1\bin\Debug\WirtualnyPoetaApp1.exe
+C:\Users\jakub\Documents\pwr\badura\WirtualnyPoetaApp1\WirtualnyPoetaApp1\bin\Debug\WirtualnyPoetaApp1.pdb
+C:\Users\jakub\Documents\pwr\badura\WirtualnyPoetaApp1\WirtualnyPoetaApp1\obj\Debug\WirtualnyPoetaApp1.exe
+C:\Users\jakub\Documents\pwr\badura\WirtualnyPoetaApp1\WirtualnyPoetaApp1\obj\Debug\WirtualnyPoetaApp1.pdb
